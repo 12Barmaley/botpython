@@ -1,5 +1,5 @@
 # botpython
-telegrambot replit.com
+telegrambot on replit.com Изучение Python💖
 
 import telebot
 from random import choice
